@@ -27,3 +27,4 @@ This is a list of resources in the Spring Community that I recommend.
 - [Dan Vega](https://www.danvega.dev)
 - [Spring Office Hours](https://tanzu.vmware.com/developer/tv/spring-office-hours/)
 - [GitHub](https://github.com/danvega)
+- [Prod Deployment](https://www.youtube.com/watch?v=UgX5lgv4uVM&list=PL_bzZICdGEyslLDZpulND3ZJOpkKxuKOg&index=1&t=11967s)
