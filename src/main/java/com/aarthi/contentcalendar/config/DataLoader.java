@@ -11,7 +11,7 @@ import org.springframework.stereotype.Controller;
 import java.io.InputStream;
 import java.util.List;
 
-@Controller
+@Component
 @RequiredArgsConstructor
 public class DataLoader implements CommandLineRunner {
 
