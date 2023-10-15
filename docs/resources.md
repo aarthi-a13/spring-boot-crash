@@ -1,7 +1,4 @@
 # Resources
-
-This is a list of resources in the Spring Community that I recommend.
-
 ## Documentation
 
 - [Spring Framework Reference](https://docs.spring.io/spring-framework/docs/current/reference/html/)
